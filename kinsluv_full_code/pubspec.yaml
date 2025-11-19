@@ -1,0 +1,19 @@
+name: kinsluv_live_full
+description: Kinsluv Live — Full Flutter scaffold with Appwrite + ZEGOCLOUD integration (placeholders)
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  appwrite: ^12.0.0
+  zego_uikit_prebuilt_live_streaming: ^3.6.5
+  provider: ^6.1.2
+  lottie: ^2.2.0
+  http: ^0.13.6
+
+flutter:
+  uses-material-design: true
