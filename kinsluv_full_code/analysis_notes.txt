@@ -1,5 +1,0 @@
-Generated scaffold notes:
-- This scaffold is intended as a starting point. Many backend integration points (Appwrite collections, secure token generation for ZEGO) must be implemented.
-- Replace ZEGO and Appwrite placeholders before testing.
-- ZEGOCLOUD requires proper appSign or token. For production, generate server-side tokens.
-- Gift system includes UI only; implement server-side transactions to validate coin balances.
